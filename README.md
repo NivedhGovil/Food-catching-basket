@@ -20,4 +20,5 @@ Move the basket left and right using [mouse drag].
 
 ## Preview
 
-*(add a screenshot or short GIF of gameplay here)*
+<img width="970" height="716" alt="Screenshot 2026-08-07 205153" src="https://github.com/user-attachments/assets/67588d60-4afe-4172-9a63-2c50f597fd57" />
+
