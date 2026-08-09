@@ -1,4 +1,4 @@
-# Food Catching Basket
+# Food Catching Basket Game
 
 ## About the game
 
@@ -14,7 +14,7 @@ Move the basket left and right using mouse drag.
 
 ## How to play
 
-1. Download `Picking up food in a basket(2).sb3` from this repository.
+1. Download `Picking up food in a basket(3).sb3` from this repository.
 2. Open it in [Scratch](https://scratch.mit.edu/) — the free block-based coding platform made by MIT.
 3. Click the green flag to start playing.
 
